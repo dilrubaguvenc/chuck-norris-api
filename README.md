@@ -1,3 +1,3 @@
 # chuck-norris-api
 
-Fun random quotes about Chuck Norris!
+It's a simple web application in ode to the man, the myth, the legend, Chuck Norris!
